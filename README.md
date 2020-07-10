@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a second year Electronics and Instrumentation undergrad at BITS Goa. I've been coding for a long time and nothing brings me more joy than writing a piece of code that works flawlessly.
+
+I'm a student developer and my fields of interest are Machine Learning and Artficial Intelligence.
+
+If I'm not doing a project then I love to listen to music, play video games and read books. I know how to play the drums and happen to be very good at it.
+
+- 🔭 I’m currently working on Natural Language Processing 
+
+
 <!--
 **arijitgupta42/arijitgupta42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
