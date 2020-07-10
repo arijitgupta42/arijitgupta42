@@ -2,7 +2,7 @@
 
 I'm a student developer and my fields of interest are Machine Learning and Artficial Intelligence.
 
-- 🔭 I’m currently working on topics related to Natural Language Processing 
+- 🔭 I’m currently working on topics related to Natural Language Processing and Computer Vision
 
 - 📫 How to reach me: Feel free to drop a mail for any sort of collaborations
 
