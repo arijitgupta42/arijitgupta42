@@ -6,7 +6,7 @@ I'm a student developer and my fields of interest are Machine Learning and Artfi
 
 - 🌱 I’m currently working on 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=simonbengtsson&repo=AirDash)](https://github.com/simonbengtsson/airdash)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=simonbengtsson&repo=AirDash)](https://github.com/arijitgupta42/DinoSmile)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=loggin-js&repo=loggin-js)](https://github.com/loggin-js/loggin-js)
 
 
