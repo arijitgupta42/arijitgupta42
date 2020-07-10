@@ -4,6 +4,12 @@ I'm a student developer and my fields of interest are Machine Learning and Artfi
 
 - 🔭 I’m currently working on topics related to Natural Language Processing and <br/> Computer Vision
 
+- 🌱 I’m currently working on 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=simonbengtsson&repo=AirDash)](https://github.com/simonbengtsson/airdash)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=loggin-js&repo=loggin-js)](https://github.com/loggin-js/loggin-js)
+
+
 - 📫 How to reach me: Feel free to drop a mail for any sort of collaborations
 
 - ⚡ If I'm not doing a project then I love to listen to music, play video games and read books. I know how to play the drums and happen to be very good at it.
