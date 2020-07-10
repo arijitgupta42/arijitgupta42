@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there!
 
 I'm a student developer and my fields of interest are Machine Learning and Artficial Intelligence.
 
