@@ -1,6 +1,6 @@
 ![Intro Image](https://github.com/arijitgupta42/arijitgupta42/blob/master/intro.png)
 
-I'm a student developer and my fields of interest are Machine Learning and Artficial Intelligence.
+I'm a student developer, currently a second year Electronics and Instrumentation undergrad at BITS Goa.
 
 - 🔭 I’m currently working on Natural Language Processing and Computer Vision
 
