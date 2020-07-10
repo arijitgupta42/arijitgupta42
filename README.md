@@ -7,7 +7,7 @@ I'm a student developer and my fields of interest are Machine Learning and Artfi
 - 🌱 I’m currently working on 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=DinoSmile)](https://github.com/arijitgupta42/DinoSmile)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=loggin-js&repo=loggin-js)](https://github.com/loggin-js/loggin-js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=Forest Cover Classification)](https://github.com/arijitgupta42/Forest-Cover-Classification)
 
 
 - 📫 How to reach me: Feel free to drop a mail for any sort of collaborations
