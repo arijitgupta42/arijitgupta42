@@ -2,9 +2,9 @@
 
 I'm a student developer and my fields of interest are Machine Learning and Artficial Intelligence.
 
-- 🔭 I’m currently working on topics related to Natural Language Processing and <br/> Computer Vision
+- 🔭 I’m currently working on Natural Language Processing and Computer Vision
 
-- 🌱 I’m currently working on 
+- 🌱 Some projects I've worked on
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=DinoSmile)](https://github.com/arijitgupta42/DinoSmile)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=Forest-Cover-Classification)](https://github.com/arijitgupta42/Forest-Cover-Classification)
