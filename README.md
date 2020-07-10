@@ -1,6 +1,6 @@
 ![Intro Image](https://github.com/arijitgupta42/arijitgupta42/blob/master/intro.png)
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Farijitgupta42%2Farijitgupta42%2Fblob%2Fmaster%2FREADME.md)
 
 I'm a student developer, currently a second year Electronics and Instrumentation undergrad at BITS Goa.
 
