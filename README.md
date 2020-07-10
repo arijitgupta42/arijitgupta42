@@ -13,7 +13,7 @@ I'm a student developer and my fields of interest are Machine Learning and Artfi
 
 - 💬 I'm knowledgable in PyTorch, Tensorflow and ReactJS 
 
-- 📫 How to reach me: Feel free to drop a [mail](mailto:arijitgupta2000@gail.com) for any sort of collaborations or drop me a messgae on my [LinkedIn](https://www.linkedin.com/in/arijitgupta42/)
+- 📫 How to reach me: Feel free to drop me a [mail](mailto:arijitgupta2000@gail.com) for any sort of collaborations or message me on [LinkedIn](https://www.linkedin.com/in/arijitgupta42/)
 
 
 <!--
