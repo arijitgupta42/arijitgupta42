@@ -1,4 +1,4 @@
-[![Intro Image](https://github.com/arijitgupta42/arijitgupta42/blob/master/intro.png)](https://arijitgupta42.github.io/)
+[![Intro Image](https://github.com/arijitgupta42/arijitgupta42/blob/master/images/intro.png)](https://arijitgupta42.github.io/)
 
 <!--![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Farijitgupta42%2Farijitgupta42%2Fblob%2Fmaster%2FREADME.md) -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arijitgupta42/arijigupta42)
@@ -14,7 +14,7 @@ I'm a student developer, currently a second year Electronics and Instrumentation
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=Forest-Cover-Classification)](https://github.com/arijitgupta42/Forest-Cover-Classification)
 
 
-- 💬 **I'm knowledgable in** <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="30" height="30">, <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" width="30" height="30">, C++/C, PyTorch, Tensorflow and <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" width="30" height="30"> 
+- 💬 **I'm knowledgable in** <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="30" height="30">&nbsp;<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" width="30" height="30">&nbsp;<img src="https://github.com/arijitgupta42/arijitgupta42/blob/master/images/cpp.svg" width="30" height="30">&nbsp;<img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" width="60" height="30">&nbsp;<img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" width="90" height="30">&nbsp;<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" width="30" height="30"> 
 
 - ⚡ **If I'm not doing a project** then I love to listen to music, play video games and read books. I know how to play the drums and happen to be very good at it.
 
