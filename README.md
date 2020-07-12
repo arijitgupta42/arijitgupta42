@@ -1,6 +1,7 @@
 [![Intro Image](https://github.com/arijitgupta42/arijitgupta42/blob/master/intro.png)](https://arijitgupta42.github.io/)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Farijitgupta42%2Farijitgupta42%2Fblob%2Fmaster%2FREADME.md)
+<!--![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Farijitgupta42%2Farijitgupta42%2Fblob%2Fmaster%2FREADME.md) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=arijitgupta42/arijigupta42)
 
 I'm a student developer, currently a second year Electronics and Instrumentation undergrad at BITS Goa.
 
@@ -19,7 +20,7 @@ I'm a student developer, currently a second year Electronics and Instrumentation
 
 - ✏️ **I sometimes write at :** You can find my existing blogs on [Towards Data Science](https://medium.com/@arijitgupta42)
 
-- 📫 **Where you can find me :** Feel free to drop me a [mail](mailto:arijitgupta2000@gail.com) for any sort of collaborations, message me on [LinkedIn](https://www.linkedin.com/in/arijitgupta42/) and you can also find me on [Kaggle](https://www.kaggle.com/synysterjeet)
+- 📫 **Where you can find me :** Feel free to drop me a [![mail](https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg)](mailto:arijitgupta2000@gail.com) for any sort of collaborations, message me on [LinkedIn](https://www.linkedin.com/in/arijitgupta42/) and you can also find me on [Kaggle](https://www.kaggle.com/synysterjeet)
 
 
 <!--
