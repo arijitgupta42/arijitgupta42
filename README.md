@@ -6,7 +6,7 @@ I'm a student developer, currently a second year Electronics and Instrumentation
 
 - 🔭 **I’m currently working on** Natural Language Processing and Computer Vision
 
-- 🌱 **Some projects I've worked on** :
+- 🌱 **Some projects I've worked on :** 
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=ChainVoter)](https://github.com/arijitgupta42/ChainVoter)
@@ -17,7 +17,7 @@ I'm a student developer, currently a second year Electronics and Instrumentation
 
 - ⚡ **If I'm not doing a project** then I love to listen to music, play video games and read books. I know how to play the drums and happen to be very good at it.
 
-- 📫 **Where you can find me:** Feel free to drop me a [mail](mailto:arijitgupta2000@gail.com) for any sort of collaborations, message me on [LinkedIn](https://www.linkedin.com/in/arijitgupta42/) and you can also find me on [Kaggle](https://www.kaggle.com/synysterjeet)
+- 📫 **Where you can find me :** Feel free to drop me a [mail](mailto:arijitgupta2000@gail.com) for any sort of collaborations, message me on [LinkedIn](https://www.linkedin.com/in/arijitgupta42/) and you can also find me on [Kaggle](https://www.kaggle.com/synysterjeet)
 
 
 <!--
