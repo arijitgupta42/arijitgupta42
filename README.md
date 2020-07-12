@@ -20,7 +20,7 @@ I'm a student developer, currently a second year Electronics and Instrumentation
 
 - ✏️ **I sometimes write at :** You can find my existing blogs on [Towards Data Science](https://medium.com/@arijitgupta42)
 
-- 📫 **Where you can find me :** For any sort of collaboration, you can reach out to me on[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" width="25" height="25">](mailto:arijitgupta2000@gail.com)&nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width="25" height="25">](https://www.linkedin.com/in/arijitgupta42/)&nbsp;[<img src="https://www.kaggle.com/static/images/site-logo.png" width="60" height="20">](https://www.kaggle.com/synysterjeet)
+- 📫 **Where you can find me :** For any sort of collaboration, you can reach out to me on &nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" width="25" height="25">](mailto:arijitgupta2000@gail.com)&nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width="25" height="25">](https://www.linkedin.com/in/arijitgupta42/)&nbsp;[<img src="https://www.kaggle.com/static/images/site-logo.png" width="60" height="20">](https://www.kaggle.com/synysterjeet)
 
 
 <!--
