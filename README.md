@@ -17,7 +17,7 @@ I'm a student developer, currently a second year Electronics and Instrumentation
 
 - ⚡ **If I'm not doing a project** then I love to listen to music, play video games and read books. I know how to play the drums and happen to be very good at it.
 
-- :pencil2:
+- ✏️ **I sometimes write at :** You can find my existing blogs on [Towards Data Science](https://medium.com/@arijitgupta42)
 
 - 📫 **Where you can find me :** Feel free to drop me a [mail](mailto:arijitgupta2000@gail.com) for any sort of collaborations, message me on [LinkedIn](https://www.linkedin.com/in/arijitgupta42/) and you can also find me on [Kaggle](https://www.kaggle.com/synysterjeet)
 
