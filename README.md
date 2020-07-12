@@ -1,4 +1,8 @@
-[![Intro Image](https://github.com/arijitgupta42/arijitgupta42/blob/master/images/intro.png)](https://arijitgupta42.github.io/)
+<p align="center">
+  <a href="https://arijitgupta42.github.io/">
+    <img src="https://github.com/arijitgupta42/arijitgupta42/blob/master/images/intro.png" width="600" height="250">
+  </a>
+</p>
 
 <!--![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Farijitgupta42%2Farijitgupta42%2Fblob%2Fmaster%2FREADME.md) -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arijitgupta42/arijigupta42)
