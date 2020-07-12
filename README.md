@@ -18,7 +18,7 @@ I'm a student developer, currently a second year Electronics and Instrumentation
 
 - ⚡ **If I'm not doing a project** then I love to listen to music, play video games and read books. I know how to play the drums and happen to be very good at it.
 
-- ✏️ **I sometimes write at :** You can find my existing blogs on &nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" width="30" height="30">](https://medium.com/@arijitgupta42)
+- ✏️ **I sometimes write at :** You can find my blogs on &nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" width="30" height="30">](https://medium.com/@arijitgupta42)
 
 - 📫 **Where you can find me :** For any sort of collaboration, you can reach out to me on &nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" width="30" height="30">](mailto:arijitgupta2000@gail.com)&nbsp;&nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/arijitgupta42/)&nbsp;&nbsp;[<img src="https://www.kaggle.com/static/images/site-logo.png" width="90" height="30">](https://www.kaggle.com/synysterjeet)
 
