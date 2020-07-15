@@ -6,7 +6,7 @@
 
 <!--![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Farijitgupta42%2Farijitgupta42%2Fblob%2Fmaster%2FREADME.md) -->
 <!-- ![visitor count](https://visitor-badge.glitch.me/badge?page_id=arijitgupta42/arijigupta42) -->
-![](https://komarev.com/ghpvc/?username=your-github-username)
+[![HitCount](http://hits.dwyl.com/arijitgupta42/arijitgupta42.svg)](http://hits.dwyl.com/arijitgupta42/arijitgupta42)
 
 I'm a student developer, currently a second year Electronics and Instrumentation undergrad at BITS Goa.
 
