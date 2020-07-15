@@ -6,7 +6,7 @@
 
 <!--![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Farijitgupta42%2Farijitgupta42%2Fblob%2Fmaster%2FREADME.md) -->
 
-![visitor count](https://arijitgupta42-visitor-badge-1.glitch.me/badge?page_id=arijitgupta42/arijigupta42)
+![visitor count](https://arijitgupta42-visitor-badge.glitch.me/badge?page_id=arijitgupta42/arijigupta42)
 
 I'm a student developer, currently a second year Electronics and Instrumentation undergrad at BITS Goa.
 
