@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://arijitgupta42.github.io/">
-    <img src="https://github.com/arijitgupta42/arijitgupta42/blob/master/images/intro.png" width="600" height="270">
+    <img title="My Website" src="https://github.com/arijitgupta42/arijitgupta42/blob/master/images/intro.png" width="600" height="270">
   </a>
 </p>
 
