@@ -10,16 +10,18 @@
 
 I'm a student developer, currently a second year Electronics and Instrumentation undergrad at BITS Goa.
 
-- 🔭 **I’m currently working on** Natural Language Processing and Computer Vision
+- 👨‍💻 **I’m currently working on** Projects in Natural Language Processing and Computer Vision
 
 - 💬 **I'm knowledgable in** [<img title="Python" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="30" height="30">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="JavaScript" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" width="30" height="30">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="C++" src="https://github.com/arijitgupta42/arijitgupta42/blob/master/images/cpp.svg" width="30" height="30">](https://github.com/arijitgupta42/)
 &nbsp;[<img title="PyTorch" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" width="60" height="30">](https://github.com/arijitgupta42/)
 &nbsp;[<img title="TensorFlow" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" width="90" height="30">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="TensorFlow" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="90" height="30">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="TensorFlow" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="90" height="30">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="JavaScript" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" width="30" height="30">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="C++" src="https://github.com/arijitgupta42/arijitgupta42/blob/master/images/cpp.svg" width="30" height="30">](https://github.com/arijitgupta42/)
 &nbsp;[<img title="ReactJS" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" width="30" height="30">](https://github.com/arijitgupta42/)
 
-- 🌱 **Some projects I've worked on :** 
+- 🔭 **Some projects I've worked on :** 
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=ChainVoter)](https://github.com/arijitgupta42/ChainVoter)
