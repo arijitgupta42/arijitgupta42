@@ -8,7 +8,7 @@
 
 ![visitor count](https://arijitgupta42-visitor-badge.glitch.me/badge?page_id=arijitgupta42/arijigupta42)
 
-I'm a student developer, currently a second year Electronics and Instrumentation undergrad at BITS Goa.
+I'm a student developer, currently a pre-final year Electronics and Instrumentation undergrad at BITS Goa.
 
 - 👨‍💻 **I’m currently working on** Projects in Natural Language Processing and Computer Vision
 
