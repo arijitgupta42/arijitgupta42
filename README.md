@@ -1,8 +1,15 @@
-<p align="center">
-  <a href="https://arijitgupta42.github.io/">
-    <img title="My Website" src="https://github.com/arijitgupta42/arijitgupta42/blob/master/images/intro.png" width="600" height="270">
-  </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true" alt="tuvovan" /> 
+
 </p>
+<p align="left"> </p>
+
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=arijitgupta42&show_icons=true alt="tuvovan"&title_color=ffff00&icon_color=ffff00 /> 
+</a>
+
+### Hello there 👋 I'm Arijit Gupta
+##### Machine Learning and Artificial Intelligence undergraduate developer and researcher
 
 <!--![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Farijitgupta42%2Farijitgupta42%2Fblob%2Fmaster%2FREADME.md) -->
 
@@ -12,14 +19,15 @@ I'm a student developer, currently a pre-final year Electronics and Instrumentat
 
 - 👨‍💻 **I’m currently working on** Projects in Natural Language Processing and Computer Vision
 
-- 💬 **I'm knowledgable in** [<img title="Python" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="30" height="30">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="PyTorch" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" width="60" height="30">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="TensorFlow" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" width="90" height="30">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="NumPy" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="90" height="30">](https://github.com/arijitgupta42/)
-[<img title="Pandas" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="70" height="30">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="JavaScript" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" width="30" height="30">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="C++" src="https://github.com/arijitgupta42/arijitgupta42/blob/master/images/cpp.svg" width="30" height="30">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="ReactJS" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" width="30" height="30">](https://github.com/arijitgupta42/)
+- 💬 **I'm knowledgable in** [<img title="Python" src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="PyTorch" src="https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-e5cd1c?style=flat-square&logo=TensorFlow&logoColor=fff">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="NumPy" src="https://img.shields.io/badge/-NumPy-8f36bf?style=flat-square&logo=NumPy&logoColor=fff">](https://github.com/arijitgupta42/)
+[<img title="Pandas" src="https://img.shields.io/badge/-Pandas-cc8843?style=flat-square&logo=Pandas&logoColor=fff">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="JavaScript" src="https://img.shields.io/badge/-JavaScript-251fe0?style=flat-square&logo=JavaScript&logoColor=fff">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="C++" src="https://img.shields.io/badge/-C/C++-1bb596?style=flat-square&logo=C&logoColor=fff">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="ReactJS" src="https://img.shields.io/badge/ReactJS-23b51b?style=flat-square&logo=React&logoColor=fff">](https://github.com/arijitgupta42/)
+
 
 - 🔭 **Some projects I've worked on :** 
 
