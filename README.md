@@ -1,5 +1,6 @@
 
 <a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=arijitgupta42&show_icons=true alt="tuvovan"&title_color=ffff00&icon_color=ffff00 />
 <img align ="right" src ="https://data.typeracer.com/misc/badge?user=arijitgupta42"/>
 </a>
                                                                                                                        
