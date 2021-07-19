@@ -6,7 +6,7 @@
                                                                                                                        
 
 ### Hello there 👋 I'm Arijit Gupta
-##### Machine Learning and Artificial Intelligence undergraduate developer and researcher
+##### Undergraduate developer and researcher
 
 <!--![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Farijitgupta42%2Farijitgupta42%2Fblob%2Fmaster%2FREADME.md) -->
 
