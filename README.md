@@ -12,7 +12,7 @@
 
 ![visitor count](https://arijitgupta42-visitor-badge.glitch.me/badge?page_id=arijitgupta42/arijigupta42)
 
-I'm a student developer, currently a final year Electronics and Instrumentation undergrad at BITS Goa. I am currently working on projects in NLProc nd Computer Vision.
+I'm a student developer, currently a final year Electronics and Instrumentation undergrad at BITS Goa, currently working in the domains of NLProc and Computer Vision.
 
 - 👨‍💻 **I’m currently working on** Projects in Natural Language Processing and Computer Vision
 
