@@ -14,7 +14,7 @@
 
 I'm a student developer, currently a final year Electronics and Instrumentation undergrad at BITS Goa, currently working in the domains of NLProc and Computer Vision.
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=arijitgupta42&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arijitgupta42&theme=dracula&row=1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👨‍💻 **I’m currently working on** Projects in Natural Language Processing and Computer Vision
 
@@ -30,13 +30,14 @@ I'm a student developer, currently a final year Electronics and Instrumentation 
 
 - 🔭 **Some projects I've worked on :** 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=Rasoee&theme=dracula)](https://github.com/arijitgupta42/Rasoee)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=ChainVoter&theme=dracula)](https://github.com/arijitgupta42/ChainVoter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=Rasoee&theme=dracula&bg_color=00000000)](https://github.com/arijitgupta42/Rasoee)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=ChainVoter&theme=dracula&bg_color=00000000)](https://github.com/arijitgupta42/ChainVoter)
 
 - ⚡ **If I'm not doing a project** then I love to listen to music, play video games and read books. I know how to play the drums and happen to be very good at it.
 
 - ✏️ **I sometimes write at :** You can find my blogs on &nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" width="30" height="30">](https://medium.com/@arijitgupta42)
 
 - 📫 **Where you can find me :** For any sort of collaboration, you can reach out to me via &nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" width="30" height="30">](mailto:arijitgupta2000@gail.com)&nbsp;&nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/arijitgupta42/)&nbsp;&nbsp;[<img src="https://www.kaggle.com/static/images/site-logo.png" width="90" height="30">](https://www.kaggle.com/synysterjeet)
+  
 
 <!-- The rights to all the logos used in this belong to their original owners -->
