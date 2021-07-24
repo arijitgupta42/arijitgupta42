@@ -12,7 +12,7 @@
 
 ![visitor count](https://arijitgupta42-visitor-badge.glitch.me/badge?page_id=arijitgupta42/arijigupta42)
 
-I'm a student developer, currently a final year Electronics and Instrumentation undergrad at BITS Goa, currently working in the domains of NLProc and Computer Vision.
+I'm a student researcher, currently a final year Electronics and Instrumentation undergrad at BITS Goa, currently working in the domains of NLProc and Computer Vision.
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=arijitgupta42&theme=dracula&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
