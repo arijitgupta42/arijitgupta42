@@ -30,8 +30,8 @@ I'm a student developer, currently a final year Electronics and Instrumentation 
 
 - 🔭 **Some projects I've worked on :** 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=Rasoee&bg_color=00000000)](https://github.com/arijitgupta42/Rasoee)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=ChainVoter&theme=radical&bg_color=00000000)](https://github.com/arijitgupta42/ChainVoter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=Rasoee&theme=tokyonight&bg_color=00000000)](https://github.com/arijitgupta42/Rasoee)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=ChainVoter&theme=tokyonight&bg_color=00000000)](https://github.com/arijitgupta42/ChainVoter)
 
 - ⚡ **If I'm not doing a project** then I love to listen to music, play video games and read books. I know how to play the drums and happen to be very good at it.
 
