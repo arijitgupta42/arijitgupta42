@@ -6,13 +6,13 @@
                                                                                                                        
 
 ### Hello there 👋 I'm Arijit Gupta
-##### Undergraduate developer and researcher
+##### NLP developer and researcher
 
 <!--![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Farijitgupta42%2Farijitgupta42%2Fblob%2Fmaster%2FREADME.md) -->
 
 ![visitor count](https://arijitgupta42-visitor-badge.glitch.me/badge?page_id=arijitgupta42/arijigupta42)
 
-I'm a student researcher, currently a final year Electronics and Instrumentation undergrad at BITS Goa, currently working in the domains of NLProc and Computer Vision.
+I'm a data scientist, currently working in the domain of NLProc.
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=arijitgupta42&theme=dracula&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
