@@ -10,13 +10,13 @@
 
 <!--![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Farijitgupta42%2Farijitgupta42%2Fblob%2Fmaster%2FREADME.md) -->
 
-![visitor count](https://arijitgupta42-visitor-badge.glitch.me/badge?page_id=arijitgupta42/arijigupta42)
+![](https://komarev.com/ghpvc/?username=arijitgupta42&color=blueviolet)
 
-I'm a data scientist, currently working in the domain of NLProc.
+I'm a postgraduate student, currently doing speech and language processing at The University of Sheffield.
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=arijitgupta42&theme=dracula&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👨‍💻 **I’m currently working on** Projects in Natural Language Processing and Computer Vision
+- 👨‍💻 **I’m currently working on** Projects in Natural Language Processing and Computational Linguistics
 
 - 💬 **I'm knowledgable in** [<img title="Python" src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff">](https://github.com/arijitgupta42/)
 &nbsp;[<img title="PyTorch" src="https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff">](https://github.com/arijitgupta42/)
@@ -33,7 +33,7 @@ I'm a data scientist, currently working in the domain of NLProc.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=Rasoee&theme=tokyonight&bg_color=a9a9a920)](https://github.com/arijitgupta42/Rasoee)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=ChainVoter&theme=tokyonight&bg_color=a9a9a920)](https://github.com/arijitgupta42/ChainVoter)
 
-- ⚡ **If I'm not doing a project** then I love to listen to music, play video games and read books. I know how to play the drums and happen to be very good at it.
+- ⚡ **If I'm not doing a project** then I love to listen to music, play video games, go on hikes and read books.
 
 - ✏️ **I sometimes write at :** You can find my blogs on &nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" width="30" height="30">](https://medium.com/@arijitgupta42)
 
