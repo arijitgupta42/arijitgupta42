@@ -12,10 +12,8 @@
 
 ![](https://komarev.com/ghpvc/?username=arijitgupta42&color=blueviolet)
 
-I'm a postgraduate student, currently doing speech and language processing at The University of Sheffield.
+I'm an AI Engineer at Cognizant where I work on GenAI and Agentic AI applications
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=arijitgupta42&theme=dracula&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 👨‍💻 **I’m currently working on** Projects in Natural Language Processing and Computational Linguistics
 
 - 💬 **I'm knowledgable in** [<img title="Python" src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff">](https://github.com/arijitgupta42/)
