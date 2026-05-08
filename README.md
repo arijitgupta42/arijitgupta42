@@ -6,7 +6,7 @@
                                                                                                                        
 
 ### Hello there 👋 I'm Arijit Gupta
-##### NLP developer and researcher
+##### NLP Developer/Researcher
 
 <!--![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Farijitgupta42%2Farijitgupta42%2Fblob%2Fmaster%2FREADME.md) -->
 
@@ -24,12 +24,6 @@ I'm an AI Engineer at Cognizant where I work on GenAI and Agentic AI application
 &nbsp;[<img title="JavaScript" src="https://img.shields.io/badge/-JavaScript-251fe0?style=flat-square&logo=JavaScript&logoColor=fff">](https://github.com/arijitgupta42/)
 &nbsp;[<img title="C++" src="https://img.shields.io/badge/-C/C++-1bb596?style=flat-square&logo=C&logoColor=fff">](https://github.com/arijitgupta42/)
 &nbsp;[<img title="ReactJS" src="https://img.shields.io/badge/ReactJS-23b51b?style=flat-square&logo=React&logoColor=fff">](https://github.com/arijitgupta42/)
-
-
-- 🔭 **Some projects I've worked on :** 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=Rasoee&theme=tokyonight&bg_color=a9a9a920)](https://github.com/arijitgupta42/Rasoee)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arijitgupta42&repo=ChainVoter&theme=tokyonight&bg_color=a9a9a920)](https://github.com/arijitgupta42/ChainVoter)
 
 - ⚡ **If I'm not doing a project** then I love to listen to music, play video games, go on hikes and read books.
 
