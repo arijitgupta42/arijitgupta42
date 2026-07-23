@@ -14,7 +14,7 @@
 
 I'm an AI Engineer at Cognizant where I work on GenAI and Agentic AI applications
   
-- 👨‍💻 **I’m currently working on** Projects in Natural Language Processing and Computational Linguistics
+- 👨‍💻 **I’m currently working on** Projects that harness LLMs in high-impact domains like finance and healthcare
 
 - 💬 **I'm knowledgable in** [<img title="Python" src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff">](https://github.com/arijitgupta42/)
 &nbsp;[<img title="PyTorch" src="https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff">](https://github.com/arijitgupta42/)
