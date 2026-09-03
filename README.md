@@ -16,14 +16,12 @@ I'm an AI Engineer at Cognizant where I work on GenAI and Agentic AI application
   
 - 👨‍💻 **I’m currently working on** Projects that harness LLMs in high-impact domains like finance and healthcare
 
-- 💬 **I'm knowledgable in** [<img title="Python" src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="PyTorch" src="https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-e5cd1c?style=flat-square&logo=TensorFlow&logoColor=fff">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="NumPy" src="https://img.shields.io/badge/-NumPy-8f36bf?style=flat-square&logo=NumPy&logoColor=fff">](https://github.com/arijitgupta42/)
-[<img title="Pandas" src="https://img.shields.io/badge/-Pandas-cc8843?style=flat-square&logo=Pandas&logoColor=fff">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="JavaScript" src="https://img.shields.io/badge/-JavaScript-251fe0?style=flat-square&logo=JavaScript&logoColor=fff">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="C++" src="https://img.shields.io/badge/-C/C++-1bb596?style=flat-square&logo=C&logoColor=fff">](https://github.com/arijitgupta42/)
-&nbsp;[<img title="ReactJS" src="https://img.shields.io/badge/ReactJS-23b51b?style=flat-square&logo=React&logoColor=fff">](https://github.com/arijitgupta42/)
+- 💬 **I'm knowledgable in** [<img title="Python" src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=python&logoColor=fff">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="PyTorch" src="https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=pytorch&logoColor=fff">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="LangChain" src="https://img.shields.io/badge/-LangChain-1c3c3c?style=flat-square&logo=langchain&logoColor=fff">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="LLM" src="https://img.shields.io/badge/-LLMs-412991?style=flat-square&logo=anthropic&logoColor=fff">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="Hugging Face" src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000">](https://github.com/arijitgupta42/)
+&nbsp;[<img title="Pandas" src="https://img.shields.io/badge/-Pandas-cc8843?style=flat-square&logo=pandas&logoColor=fff">](https://github.com/arijitgupta42/)
 
 - ⚡ **If I'm not doing a project** then I love to listen to music, play video games, go on hikes and read books.
 
