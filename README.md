@@ -23,11 +23,11 @@ I'm an AI Engineer at Cognizant where I work on GenAI and Agentic AI application
 &nbsp;[<img title="Hugging Face" src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000">](https://github.com/arijitgupta42/)
 &nbsp;[<img title="Pandas" src="https://img.shields.io/badge/-Pandas-cc8843?style=flat-square&logo=pandas&logoColor=fff">](https://github.com/arijitgupta42/)
 
-- ⚡ **If I'm not doing a project** then I love to listen to music, play video games, go on hikes and read books.
+- ⚡ **If I'm not doing a project** then I love to listen to music, play video games, and read books.
 
 - ✏️ **I sometimes write at :** You can find my blogs on &nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" width="30" height="30">](https://medium.com/@arijitgupta42)
 
-- 📫 **Where you can find me :** For any sort of collaboration, you can reach out to me via &nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" width="30" height="30">](mailto:arijitgupta2000@gail.com)&nbsp;&nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/arijitgupta42/)&nbsp;&nbsp;[<img src="https://www.kaggle.com/static/images/site-logo.png" width="90" height="30">](https://www.kaggle.com/synysterjeet)
+- 📫 **Where you can find me :** For any sort of collaboration, you can reach out to me via &nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" width="30" height="30">](mailto:arijitgupta2000@gail.com)&nbsp;&nbsp;[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/arijitgupta42/)
   
 
 <!-- The rights to all the logos used in this belong to their original owners -->
